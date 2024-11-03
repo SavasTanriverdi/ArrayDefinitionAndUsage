@@ -1,0 +1,14 @@
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\bin\Debug\net8.0\ArrayDefinitionAndUsage.exe
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\bin\Debug\net8.0\ArrayDefinitionAndUsage.deps.json
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\bin\Debug\net8.0\ArrayDefinitionAndUsage.runtimeconfig.json
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\bin\Debug\net8.0\ArrayDefinitionAndUsage.dll
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\bin\Debug\net8.0\ArrayDefinitionAndUsage.pdb
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.AssemblyInfoInputs.cache
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.AssemblyInfo.cs
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.csproj.CoreCompileInputs.cache
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.dll
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\refint\ArrayDefinitionAndUsage.dll
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.pdb
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ArrayDefinitionAndUsage.genruntimeconfig.cache
+C:\Users\savas\RiderProjects\ArrayDefinitionAndUsage\ArrayDefinitionAndUsage\obj\Debug\net8.0\ref\ArrayDefinitionAndUsage.dll
